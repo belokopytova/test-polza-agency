@@ -1,6 +1,9 @@
 ## Тестовое задание
 
 
+#### Установите зависимости из файла requirements.txt:
+`pip install -r requirements.txt`
+
 ### 1.Проверка доменов
 
   Файл check_email_domain.py
@@ -38,6 +41,3 @@ if __name__ == '__main__':
  
 
 
-
-#### Установите зависимости из файла requirements.txt:
-`pip install -r requirements.txt`
