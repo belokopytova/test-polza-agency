@@ -1,7 +1,7 @@
 import requests
 
-TOKEN='8436633531:AAGtjZ1VfsH6PMBZmfEegrPC8CJ-b9EmPyc'
-CHAT_ID='-5008709820'
+TOKEN=''
+CHAT_ID=''
 FILE_PATH='text.txt'
 
 def read_file():
